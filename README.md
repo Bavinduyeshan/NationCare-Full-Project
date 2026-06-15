@@ -43,6 +43,10 @@ NationCare follows a microservices architecture with centralized routing and ser
 Each service is independently deployable and responsible for a specific business domain.
 
 
+<img width="1302" height="1208" alt="image" src="https://github.com/user-attachments/assets/ceaa6c31-d0ba-4ac7-b2d1-f1d677688ccb" />
+
+
+
 🔐 User Service
 
 
